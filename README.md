@@ -1,4 +1,5 @@
 #######  TR   #######
+
 Mac OS sistemli bilgisayarlarda repoya dosyaları koplalma esnasında oluşan, Mac işletim sistemine ait dosyaların gereksiz yere kopyalamak için kullanılan komutlar...
 
  # ~/.gitignore_global
@@ -11,6 +12,7 @@ Mac OS sistemli bilgisayarlarda repoya dosyaları koplalma esnasında oluşan, M
 
 
 #######  EN   #######
+
 Commands used to copy files of Mac operating system unnecessarily, which occur during copying files to repo on computers with Mac OS system.
 
  # ~/.gitignore_global
